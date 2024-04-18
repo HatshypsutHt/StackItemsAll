@@ -1,4 +1,4 @@
-Increases the maximum stack size of all items in the game by 10 times
+Stack sizes increased to 10000 for all items in the game RUST.
 
 item.stackable = 10000; // We set the maximum stack size
 
